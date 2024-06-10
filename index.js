@@ -38,9 +38,3 @@ app.get("/", (req, res) => {
   res.send(`<h1> this is homepage<h1>`);
 });
 
-// mO2ETWuYGrSCbT9E
-//  gj262002
-
-
-// iimDO63pw2U1fxEm
-// mongodb+srv://gj262002:iimDO63pw2U1fxEm@cluster0.pkfl866.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
